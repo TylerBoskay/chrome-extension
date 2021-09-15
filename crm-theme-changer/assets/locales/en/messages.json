@@ -1,0 +1,11 @@
+{
+    "appName": {
+        "message": "crm-theme-changer"
+    },
+    "appShortName": {
+        "message": "crm-theme-changer"
+    },
+    "appDescription": {
+        "message": "Changes the Nav Bar color in CRM."
+    }
+}

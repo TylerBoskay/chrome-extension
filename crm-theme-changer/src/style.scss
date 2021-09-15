@@ -1,0 +1,5 @@
+$bg-color: hsl(287, 60%, 41%);
+
+.navigationControl, .navigationControl.sandbox, .navigationControl.preview {
+    background-color: $bg-color !important;
+}
